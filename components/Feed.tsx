@@ -3,7 +3,7 @@ import Todo from './Todo'
 
 function Feed() {
   return (
-    <div className='h-screen overflow-y-auto bg-gray-100 space-y-2 scroll-smooth scrollbar-hide p-2 md:h-96 lg:h-96'>
+    <div className='h-screen overflow-y-auto bg-gray-100 space-y-2  scrollbar-hide p-2 md:h-screen '>
         <Todo />
         <Todo />
         <Todo />
@@ -12,6 +12,24 @@ function Feed() {
         <Todo />
         <Todo />
         <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        <Todo />
+        
     </div>
   )
 }
